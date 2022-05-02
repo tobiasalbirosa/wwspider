@@ -270,7 +270,7 @@ class Router {
         fill(255);
       }
 
-      text(i+1, 20, height/this.numberOfChannels*i-8+ height /10);
+      text(i+1, 20, height/this.numberOfChannels*i-8+ height /8);
 
       if (this.send[i] == true) {
 
@@ -280,7 +280,7 @@ class Router {
         fill(255);
       }
 
-      text(i+1, width-48, height/this.numberOfChannels*i-8 + height /10);
+      text(i+1, width-48, height/this.numberOfChannels*i-8 + height /8);
     }
 
     popStyle();

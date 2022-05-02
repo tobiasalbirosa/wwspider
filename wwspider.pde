@@ -17,7 +17,6 @@ public void settings() {
   size(displayWidth/2, displayHeight/2);
   fondoSetup = loadImage("images/setupBackground.png");
   icon = loadImage("images/icon.png");
-  registerMethod("pre", this);
 }
 
 public void setup() {
@@ -39,6 +38,8 @@ public void setup() {
 
   oscP5 = new OscP5(this, router.oscPort);
   router.currentHost = currentHost();
+
+  registerMethod("pre", this);
 }
 
 void draw() {
