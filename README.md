@@ -1,6 +1,11 @@
-# wwspider
+# wwSpider
 
- WWSpider v1.0 OSC Router - 10 Devices - 8 Channels 2021
+ ( oo )
+( oooo )
+ ( oo )
+   ww
+
+ wwSpider v1.01 OSC Router - 255 Devices - 8 Channels 2022
 
   | Press ' ' (space) to switch display 
   | Press 'I'  || 'i' to update IPList
