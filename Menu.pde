@@ -33,7 +33,7 @@ class Menu {
     
     fill(0, 0, 255);
     text("| About", this.x, height-height/6);
-    text(" | WWSpider v1.0 OSC Router 8 Channels 2021", this.x, height-height/7);
+    text(" | wwSpider v1.01 OSC Router 8 Channels 2022", this.x, height-height/7);
     text(" | Press '+' to switch display ", this.x, height-height/8);
     text(" | Press 'I'  || 'i' to view the IPList.txt file", this.x, height-height/10);
     text(" | Press 'P'  || 'p' to update the IPList.txt file", this.x, height-height/10+20);
